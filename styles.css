@@ -1,0 +1,22 @@
+.main-app{
+    border: 1px solid black;
+}
+
+
+.header{
+    background-color: blue;
+    height: 150px;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.converter-container{
+    margin-top: 20px;
+    text-align: center;
+    
+}
